@@ -30,14 +30,14 @@ void DisplayNums(vector<int>& dynArray)
 }
 
 /*
-void Myprint(int val)
+void MyPrint(int val)
 {
     cout << val << " "; 
 }
 
 void DisplayNums(vector<int>& dynArray)
 {
-    for_each (dynArray.begin(), dynArray.end(), Myprint);
+    for_each (dynArray.begin(), dynArray.end(), MyPrint);
     cout << endl;
 }
 */
